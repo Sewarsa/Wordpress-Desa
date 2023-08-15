@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: ChromeBlog were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://desanyamok.test:8080
+Data file = C:\laragon\www\desanyamok/wp-content/uploads/2023/07/demo-content-import-file_2023-07-17__16-23-59.xml
+Widget file = C:\laragon\www\desanyamok/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-17__16-23-59.json
+Customizer file = C:\laragon\www\desanyamok/wp-content/uploads/2023/07/demo-customizer-import-file_2023-07-17__16-23-59.dat
+
+------
+Completed AJAX call number: 1
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+AFTA Trending News - No Title - Imported
+AFTA Social Contacts - No Title - Imported
+
+Footer First Section : 
+
+Blok - No Title - Imported
+
+Footer Second Section : 
+
+AFTA Author Info - No Title - Imported
+
+Footer Third Section : 
+
+Blok - No Title - Imported
+Blok - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---af-companion/after_import---
+

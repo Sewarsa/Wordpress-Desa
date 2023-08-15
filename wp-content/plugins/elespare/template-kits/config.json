@@ -1,0 +1,315 @@
+{
+    "version": "1.0",
+    "data": [
+        {
+            "image": "assets",
+            "title": "Homepage 1",
+            "content": "homepage-1",
+            "url": "https://afthemes.com/plugins/elespare/all-demos/",
+            "type": "homepage"
+        },
+        {
+            "image": "assets",
+            "title": "Homepage 2",
+            "content": "homepage-2",
+            "url": "https://afthemes.com/plugins/elespare/all-demos/",
+            "type": "homepage"
+        },
+        {
+            "image": "assets",
+            "title": "Homepage 3",
+            "content": "homepage-3",
+            "url": "https://afthemes.com/plugins/elespare/all-demos/",
+            "type": "homepage"
+        },
+        {
+            "image": "assets",
+            "title": "Homepage 4",
+            "content": "homepage-4",
+            "url": "https://afthemes.com/plugins/elespare/all-demos/",
+            "type": "homepage"
+        },
+        {
+            "image": "assets",
+            "title": "Homepage 5",
+            "content": "homepage-5",
+            "url": "https://afthemes.com/plugins/elespare/all-demos/",
+            "type": "homepage"
+        },
+        {
+            "image": "assets",
+            "title": "Header 1",
+            "content": "header-1",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "header"
+        },
+        {
+            "image": "assets",
+            "title": "Header 2",
+            "content": "header-2",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "header"
+        },
+        {
+            "image": "assets",
+            "title": "Header 3",
+            "content": "header-3",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "header"
+        },
+        {
+            "image": "assets",
+            "title": "Header 4",
+            "content": "header-4",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "header"
+        },
+        {
+            "image": "assets",
+            "title": "Header 5",
+            "content": "header-5",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "header"
+        },
+        {
+            "image": "assets",
+            "title": "Footer 1",
+            "content": "footer-1",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "footer"
+        },
+        {
+            "image": "assets",
+            "title": "Footer 2",
+            "content": "footer-2",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "footer"
+        },
+        {
+            "image": "assets",
+            "title": "Footer 3",
+            "content": "footer-3",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "footer"
+        },
+        {
+            "image": "assets",
+            "title": "Footer 4",
+            "content": "footer-4",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "footer"
+        },
+        {
+            "image": "assets",
+            "title": "Footer 5",
+            "content": "footer-5",
+            "url": "https://afthemes.com/plugins/elespare/header-and-footers-templates/",
+            "type": "footer"
+        }
+    ],
+    "blocks": [
+        {
+            "image": "post-grid/assets",
+            "title": "Post Grid 1",
+            "content": "post-grid-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-grid/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-grid/assets",
+            "title": "Post Grid 2",
+            "content": "post-grid-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-grid/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-grid/assets",
+            "title": "Post Grid 3",
+            "content": "post-grid-3",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-grid/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-grid/assets",
+            "title": "Post Grid 4",
+            "content": "post-grid-4",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-grid/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-grid/assets",
+            "title": "Post Grid 5",
+            "content": "post-grid-5",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-grid/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-list/assets",
+            "title": "Post List 1",
+            "content": "post-list-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-list/assets",
+            "title": "Post List 2",
+            "content": "post-list-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-list/assets",
+            "title": "Post List 3",
+            "content": "post-list-3",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-list/assets",
+            "title": "Post List 4",
+            "content": "post-list-4",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-express-list/assets",
+            "title": "Post Express List 1",
+            "content": "post-express-list-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/express-posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-express-list/assets",
+            "title": "Post Express List 2",
+            "content": "post-express-list-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/express-posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-express-list/assets",
+            "title": "Post Express List 3",
+            "content": "post-express-list-3",
+            "url": "https://afthemes.com/plugins/elespare/layout/express-posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-express-list/assets",
+            "title": "Post Express List 4",
+            "content": "post-express-list-4",
+            "url": "https://afthemes.com/plugins/elespare/layout/express-posts-list/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-flash/assets",
+            "title": "Post Flash 1",
+            "content": "post-flash-1",
+            "url": "https://afthemes.com/plugins/elespare/free/block/post-flash/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-flash/assets",
+            "title": "Post Flash 2",
+            "content": "post-flash-2",
+            "url": "https://afthemes.com/plugins/elespare/free/block/post-flash/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-flash/assets",
+            "title": "Post Flash 3",
+            "content": "post-flash-3",
+            "url": "https://afthemes.com/plugins/elespare/free/block/post-flash/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-single-column/assets",
+            "title": "Post Single Column 1",
+            "content": "post-single-column-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-single-column/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-single-column/assets",
+            "title": "Post Single Column 2",
+            "content": "post-single-column-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-single-column/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-single-column/assets",
+            "title": "Post Single Column 3",
+            "content": "post-single-column-3",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-single-column/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-single-column/assets",
+            "title": "Post Single Column 4",
+            "content": "post-single-column-4",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-single-column/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-single-column/assets",
+            "title": "Post Single Column 5",
+            "content": "post-single-column-5",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-single-column/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-slider/assets",
+            "title": "Post Slider 1",
+            "content": "post-slider-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/post-slider/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-slider/assets",
+            "title": "Post Slider 2",
+            "content": "post-slider-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/post-slider/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-slider/assets",
+            "title": "Post Slider 3",
+            "content": "post-slider-3",
+            "url": "https://afthemes.com/plugins/elespare/layout/post-slider/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-slider/assets",
+            "title": "Post Slider 4",
+            "content": "post-slider-4",
+            "url": "https://afthemes.com/plugins/elespare/layout/post-slider/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-tile/assets",
+            "title": "Post Tile 1",
+            "content": "post-tile-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-tile/",
+            "type": "blocks"
+        },
+        {
+            "image": "post-tile/assets",
+            "title": "Post Tile 2",
+            "content": "post-tile-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/posts-tile/",
+            "type": "blocks"
+        },
+        {
+            "image": "social-link/assets",
+            "title": "Social Link 1",
+            "content": "social-link-1",
+            "url": "https://afthemes.com/plugins/elespare/layout/social-link/",
+            "type": "blocks"
+        },
+        {
+            "image": "social-link/assets",
+            "title": "Social Link 2",
+            "content": "social-link-2",
+            "url": "https://afthemes.com/plugins/elespare/layout/social-link/",
+            "type": "blocks"
+        }
+    ]
+}

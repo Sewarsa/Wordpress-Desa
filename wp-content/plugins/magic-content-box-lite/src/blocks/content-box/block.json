@@ -1,0 +1,127 @@
+{
+  "name": "magic-content-box/content-box",
+  "category": "magic-content-box",
+  "attributes": {
+    "className": {
+      "type": "string"
+    },
+
+    "align": {
+      "type": "string",
+      "default": "center"
+    },
+
+    "sectionAlignment": {
+      "type": "string",
+      "default": "left"
+    },
+
+    "sectionDescription": {
+      "type": "string",
+      "default": "Add your description here..."
+    },
+
+    "showContentImg": {
+      "type": "boolean",
+      "default": true
+    },
+    "imgURL": {
+      "type": "string",
+      "default": false
+    },
+
+    "imgID": {
+      "type": "number"
+    },
+    "imgAlt": {
+      "type": "string",
+      "source": "attribute",
+      "attribute": "alt",
+      "selector": "img"
+    },
+    "imageSize": {
+      "type": "number",
+      "default": 100
+    },
+
+    "showButton": {
+      "type": "boolean",
+      "default": true
+    },
+
+    "enableBackgroundColor": {
+      "type": "boolean",
+      "default": true
+    },
+
+    "backGroundColor": {
+      "type": "string",
+      "default": "#fff"
+    },
+
+    "borderRadius": {
+      "type": "number",
+      "default": 5
+    },
+
+    "titleColor": {
+      "type": "string",
+      "default": "#000"
+    },
+
+    "layoutOption": {
+      "type": "boolean",
+      "default": false
+    },
+    "maskImagePosition": {
+      "type":"string",
+      "default": "mask-position-center"
+    },
+    "imageShape": {
+      "type": "string",
+      "default": ""
+    },
+    "design": {
+      "type": "string",
+      "default": "style-1"
+    },
+    "headerpaddingTop": {
+      "type": "number",
+      "default": 0
+    },
+    "headerpaddingRight": {
+      "type": "number",
+      "default": 0
+    },
+    "headerpaddingBottom": {
+      "type": "number",
+      "default": 0
+    },
+    "headerpaddingLeft": {
+      "type": "number",
+      "default": 0
+    },
+    "headermarginTop": {
+      "type": "number",
+      "default": 0
+    },
+
+    "headermarginBottom": {
+      "type": "number",
+      "default": 0
+    },
+    "enableContent": {
+      "type": "boolean",
+      "default": false
+    },
+    "displaySectionHeader": {
+      "type": "boolean",
+      "default": true
+    },
+    "enableContentPointer": {
+      "type": "boolean",
+      "default": false
+    }
+
+  }
+}

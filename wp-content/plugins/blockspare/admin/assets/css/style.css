@@ -1,0 +1,55 @@
+.blockspare-notice {
+    display: flex;
+    position: relative;
+    border: none;
+    padding: 0;
+}
+
+.blockspare-notice .blockspare-notice__logo {
+    background: #fdf5ff;
+    padding: 15px 12px;
+    border-left: 4px solid;
+    border-image: linear-gradient(to bottom, #3B1A5B, #8b249c) 1 100%;
+}
+
+.blockspare-notice .blockspare-notice__logo svg {
+    width: 30px;
+    height: 30px;
+}
+
+.blockspare-notice .blockspare-notice__content {
+    flex: 1;
+    padding: 20px 50px 20px 10px;
+}
+
+.blockspare-notice .blockspare-notice__content h2{
+    margin-top: 0;
+    margin-inline-end: 15px;
+}
+.blockspare-notice .blockspare-notice__content .links{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.blockspare-notice .blockspare-notice-dismiss {
+    text-decoration: none;
+}
+
+.blockspare-notice .button-primary {
+    background-color: #8b249c;
+    border-color: #8b249c;
+}
+.blockspare-notice .button-primary:hover {
+    background-color: #3B1A5B;
+    border-color: #3B1A5B;
+}
+.blockspare-notice .button-secondary {
+    color: #8b249c;
+    border-color: #8b249c;
+}
+
+.blockspare-notice .button-secondary:hover {
+    color: #3B1A5B;
+    border-color: #3B1A5B;
+}

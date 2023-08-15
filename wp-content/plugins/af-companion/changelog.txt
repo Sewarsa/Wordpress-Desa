@@ -1,0 +1,38 @@
+### 1.0.6 - 15/09/2021
+
+Changes:
+*Fixed - Demo Files not Accessed Issues*
+
+
+### 1.0.5 - 13/08/2021
+
+Changes:
+*Fixed - WP Importer Redeclaration Issues*
+*Update - Added Some Essentials Links*
+
+
+### 1.0.4 - 19/04/2021
+
+Changes:
+*Update - WP 5.8 Compatibility Check*
+
+
+### 1.0.3 - 19/04/2021
+
+Changes:
+*Update - WP 5.7 Compatibility Check*
+
+### 1.0.2 - 19/04/2021
+
+Changes:
+*Fixed - Import Success Message*
+
+### 1.0.1 - 18/04/2021
+
+Changes:
+*Fixed - Undefined Pro Link*
+
+### 1.0.0 - 16/02/2021
+
+Changes:
+*Initial ReleaseE*
